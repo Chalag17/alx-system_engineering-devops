@@ -1,3 +1,2 @@
-listfiles
 #!/bin/bash
 ls -l
